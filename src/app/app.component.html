@@ -1,0 +1,6 @@
+<input (input)="search.next($event.target.value)">
+<p style="height: 800px; overflow: auto;">
+  {{searchStream$ | async}}
+</p>
+
+<router-outlet></router-outlet>
