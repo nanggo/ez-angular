@@ -1,4 +1,4 @@
-#ez-angular
+# ez-angular
 
 회사 점심시간에 짬짬히 진행했던 스터디 결과물
 
